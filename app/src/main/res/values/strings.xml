@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anti-Spam Phone</string>
+    <string name="app_description">This app replaces your default phone app and blocks all calls except those from your whitelist.</string>
+    
+    <!-- Main Activity -->
+    <string name="set_as_default_dialer">Set as Default Phone App</string>
+    <string name="default_dialer_set">Default Phone App Set</string>
+    <string name="manage_whitelist">Manage Whitelist</string>
+    <string name="whitelist_status">Only calls from numbers in your whitelist will be allowed.</string>
+    <string name="default_dialer_success">Successfully set as default phone app!</string>
+    <string name="default_dialer_failed">Failed to set as default phone app. Please try again.</string>
+    <string name="open_dialer">Open Dialer</string>
+    
+    <!-- Permissions -->
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permissions_explanation">This app needs phone and contacts permissions to function properly. Please grant all requested permissions.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Whitelist Activity -->
+    <string name="whitelist_management">Whitelist Management</string>
+    <string name="add_to_whitelist">Add to Whitelist</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="add">Add</string>
+    <string name="entry_added">Entry added to whitelist</string>
+    <string name="entry_deleted">Entry removed from whitelist</string>
+    <string name="phone_number_required">Phone number is required</string>
+    <string name="no_whitelist_entries">Your whitelist is empty. Add numbers to allow calls.</string>
+    <string name="delete_entry">Delete entry</string>
+    
+    <!-- Dialer Activity -->
+    <string name="call">Call</string>
+    <string name="delete">Delete</string>
+</resources>
